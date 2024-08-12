@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://caughtel.github.io/sitemap.html.gz
+Sitemap: https://caughtel.github.io/app/sitemap.html.gz
+Sitemap: https://caughtel.github.io/assets/sitemap.html.gz
+Sitemap: https://caughtel.github.io/css/sitemap.html.gz
+Sitemap: https://caughtel.github.io/includes/sitemap.html.gz
+Sitemap: https://caughtel.github.io/item/sitemap.html.gz
+Sitemap: https://caughtel.github.io/src/sitemap.html.gz
